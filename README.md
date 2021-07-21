@@ -6,13 +6,13 @@ place the log file in the same directory and in install python if required
 and run the following command in the terminal
 ### 1st Method
 ```
-./data_analyser.py data.log
+./data_analyzer.py data.log
 ```
 ### 2nd Method
 for some reason if 1st method fails
 ```
-$ ./data_analyser.py         
-Input a file name:data.log
+$ ./data_analyzer.py         
+Input a file name: data.log
 ```
 <br/>
 

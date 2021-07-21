@@ -21,12 +21,9 @@ def timeDifference(timeDic):
     d1 = datetime.strptime(t1, "%b %d %H:%M:%S:%f")
     d2 = datetime.strptime(t2, "%b %d %H:%M:%S:%f")
     diff = d2 - d1
-    days = diff.days
+    days = "" if diff.days == 0 else str(diff.days) + " days, "
     seconds = str(diff.seconds) + " seconds"
-    if days == 0:
-        return seconds
-    return str(days) + " days, " + seconds
-    
+    return days + seconds
 
 try:
     fileName = sys.argv[1]

@@ -1,6 +1,9 @@
 # log-file-analyzer
 
 ## To run the script
+place the log file in the same directory and in install python if required
+<br/>
+and run the following command in the terminal
 ### 1st Method
 ```
 ./data_analyser.py data.log

@@ -14,4 +14,14 @@ Input a file name:data.log
 <br/>
 
 ## Output
-![image](https://user-images.githubusercontent.com/69719072/126435470-ca5f091c-dff0-4625-a0e9-8d69e6639be5.png)
+```
+Device 139681125603136 was on for 7 seconds.
+Device 139681125603136 had following error events:     
+         Jul 11 16:11:54:661
+         Jul 11 16:11:56:067
+Device 139681125603178 was on for 17 seconds.
+Device 139681125603178 had no error events.
+Device 139681125603191 was on for 3 seconds.
+Device 139681125603191 had following error events:     
+         Jul 11 16:11:55:083
+```

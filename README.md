@@ -1,4 +1,4 @@
-# log-file-analyzer
+# Log File Analyzer
 
 ## To run the script
 Place the log file in the same directory and install python if required

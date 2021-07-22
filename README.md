@@ -1,5 +1,5 @@
 # Log File Analyzer
-
+This is a python script that analyzes log files and produces output.
 ## To run the script
 Place the log file in the same directory and install python if required
 <br/>
